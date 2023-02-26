@@ -13,6 +13,8 @@
 5. enter and verify password > Pawan@2000 + enter + Pawan@2000
 6. Now find location of git_coder_pawan > since we are in int_project dir so git_coder_pawan.pub and git_coder_pawan file has been created there  > copy to .ssh dir both pub and private file(if not in .ssh dir)
 7. now we open git_coder_pawan.pub (means public) > copy SSH key > paste it github account
+>>> create repo on github > copy ssh url 
+>>> open local project dir in cmd > git remote add origin <ssh url>q
 # How to open git_coder_pawan.pub file ?
     > right click + open with notepad / textEditor
     > copy whole text
