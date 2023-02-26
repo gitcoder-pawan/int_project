@@ -17,7 +17,8 @@
     > right click + open with notepad / textEditor
     > copy whole text
 
-8. ssh -T pawan11072000@gmail.com > eval "$(ssh-agent -s)" > ssh-add -K ~/.ssh/gitcoder_pawan;    
+8.  eval "$(ssh-agent -s)" > ssh-add -K ~/.ssh/gitcoder_pawan; 
+9. git pull origin main --allow-unrelated-histories   
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
