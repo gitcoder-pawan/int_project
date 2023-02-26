@@ -11,7 +11,7 @@
 3. ssh-keygen -t rsa -b 4096 -C "pawan11072000@gmail.com"
 4. enter file_name >  git_coder_pawan
 5. enter and verify password > Pawan@2000 + enter + Pawan@2000
-6. Now find location of git_coder_pawan > since we are in int_project dir so git_coder_pawan.pub and git_coder_pawan file has been created there 
+6. Now find location of git_coder_pawan > since we are in int_project dir so git_coder_pawan.pub and git_coder_pawan file has been created there  > copy to .ssh dir both pub and private file(if not in .ssh dir)
 7. now we open git_coder_pawan.pub (means public) > copy SSH key > paste it github account
 # How to open git_coder_pawan.pub file ?
     > right click + open with notepad / textEditor
